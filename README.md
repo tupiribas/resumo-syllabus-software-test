@@ -1,6 +1,6 @@
 [TOC]
 
-# Fundamentos de Teste de software  :beetle::computer:
+# Fundamentos de Teste de software 🐞:computer:
 
 ------
 
