@@ -2,13 +2,9 @@
 
 # Fundamentos de Teste de software  :beetle::computer:
 
-------
-
 > É com estrema felicidade que apresento-lhe o "RESUMÃO" sobre esse lindo e maravilhoso mundo dos testes de software. Aproveite:laughing:!
 
 ## O que é Teste de software 🤔
-
-------
 
 Atualmente, com o avanço da tecnologia, podemos considerar que, tudo pode se transformar em um software, desde uma aplicação comercial até produtos de consumo e, além de existir essas possibilidades, um software pode trazer algumas dores de cabeça quando não são testados e aprovados.
 
@@ -59,7 +55,7 @@ Geralmente acham que teste é aprofundar-se inteiramente na verificação de req
 
 ### 	Depende do objetivo 🎯 
 
-> Como foi dito no tópico [Atenção ao conceito⚠](#Atenção ao conceito), a forma de como serão feitos todos os testes depende do que será desenvolvido. Por conta disso, deve ser analisado o contexto do componente ou sistema que está sendo testado, do nível de teste e do modelo de ciclo de vida de desenvolvimento de software. 
+> Como foi dito no tópico [Atenção ao conceito⚠](Atenção ao conceito :warning:), a forma de como serão feitos todos os testes depende do que será desenvolvido. Por conta disso, deve ser analisado o contexto do componente ou sistema que está sendo testado, do nível de teste e do modelo de ciclo de vida de desenvolvimento de software. 
 
 ### 🔶 Exemplos:
 
@@ -84,8 +80,6 @@ Geralmente acham que teste é aprofundar-se inteiramente na verificação de req
 > Os  testadores  são  responsáveis  pelo  teste  inicial  e  pelo  teste  de confirmação  final. No  desenvolvimento  ágil  e  em  alguns  outros  ciclos  de  vida,  os  testadores podem estar envolvidos na depuração e no teste de componentes.
 
 ## Por que o teste é necessário? 🔰
-
-------
 
 - Testes rigorosos de componentes e sistemas e sua documentação associada podem ajudar a reduzir o risco de falhas durante a operação. 
 
@@ -134,8 +128,6 @@ Geralmente acham que teste é aprofundar-se inteiramente na verificação de req
 > Diante do que foi descrito em [Objetivos típicos do teste🎯 🔬](###Objetivos típicos do teste🎯 🔬) e [Teste e depuração de código 👩🏽‍💻👨🏽‍💻:beetle:](###Teste e depuração de código 👩🏽‍💻👨🏽‍💻:beetle:) os testes contribuem para a obtenção da qualidade de várias formas.
 
 ## Erros, defeitos e falhas  ❗🧾💣
-
-------
 
 ### 	Erro ❗
 
@@ -206,8 +198,6 @@ Podem ser associados entre si.
 
 ## Os sete princípios de testes 🎰💡
 
-------
-
 ### 	O teste mostra a presença de defeitos e não a sua ausência 🔍👩🏽‍💻
 
 > Seu trabalho é **reduzir o números de defeitos no software**, mas **não garante** que não possa **ter outros defeitos existentes**.
@@ -254,8 +244,6 @@ Podem ser associados entre si.
 
 ## Processos de teste 🧭
 
-------
-
 ### 	Fatores🔸
 
 - Quais atividades de teste estão envolvidas;
@@ -291,8 +279,6 @@ Podem ser associados entre si.
 > Uma vez executados, os resultados desses testes informam aos interessados se os requisitos especificados são atendidos e se as falhas foram observadas nos dispositivos suportados.
 
 ## Atividades e tarefas de teste 📑✅🐞
-
-------
 
 ### Principais atividades  🔛
 
@@ -518,9 +504,7 @@ Veja [Rastreabilidade entre a base de teste e os produtos de trabalho de teste �
 
 ## A psicologia do teste 🧠🐞
 
-------
-
-> Como foi dito em [O que é teste de software🤔](##O que é teste de software) a falta de atenção para as possíveis falhas de software pode ocasionar em possíveis catástrofes, causando ferimentos ou até mortes de pessoas e, por conta disso, a **psicologia humana** tem efeitos importantes no teste de software.
+> Como foi dito em [O que é teste de software🤔](O que é teste de software🤔) a falta de atenção para as possíveis falhas de software pode ocasionar em possíveis catástrofes, causando ferimentos ou até mortes de pessoas e, por conta disso, a **psicologia humana** tem efeitos importantes no teste de software.
 
 ### Psicologia humana e os testes🧠👩👨🐞
 
@@ -552,6 +536,51 @@ Veja [Rastreabilidade entre a base de teste e os produtos de trabalho de teste �
 > Ter algumas das atividades de teste feitas por testadores independentes aumenta a eficácia da detecção de defeitos, o que é particularmente importante para sistemas grandes, complexos ou de segurança crítica.
 >
 > Testadores independentes trazem uma perspectiva que é diferente daquela dos autores de produtos de trabalho (isto é, analistas de negócios, proprietários de produtos, designers e programadores), uma vez que eles têm diferentes vieses cognitivos dos autores.
+
+# Teste durante o ciclo de vida de desenvolvimento de software 🐞🕓👨‍💻
+
+> Olá seja bem-vindo(a) ao segundo capítulo da nossa jornada por esse maravilhoso mundo que é o teste de software, espero que goste 😉😁!
+
+## O que você irá aprender? 🤔
+
+1. Modelos de ciclo de vida de desenvolvimento de software;
+2.  Níveis de teste;
+3. Tipos de teste;
+4. Teste de manutenção.
+
+## Modelos de ciclo de vida de desenvolvimento de software 🕓👨‍💻
+
+> Ele descreve os tipos de atividades realizadas em cada estágio de um projeto de desenvolvimento de software e como as atividades se relacionam umas com as outras de forma lógica e cronológica.
+
+### 	Os tipos de modelos de ciclo de vida 📝
+
+- Cascata
+- Modelo em V
+- Incremental
+- Evolutivo
+- RAD
+- Prototipagem
+- Espiral
+- Modelo de Ciclo de Vida Associado ao RUP
+
+## Desenvolvimento de software e teste de software 👨‍💻🐞
+
+> É importante o testador está familiarizado com o ciclo de vida de um desenvolvimento de software para que as atividades de teste ocorram tranquilamente.
+
+### 	Características para um bom teste 😁👌
+
+- Para cada atividade de desenvolvimento, existe uma atividade de teste correspondente;
+- Cada nível de teste tem objetivos de teste específicos;
+- A análise e a modelagem de teste para um determinado nível de teste começam durante a atividade de desenvolvimento correspondente;
+- Os testadores participam de discussões para definir e refinar os requisitos e a modelagem, e estão envolvidos na revisão dos [produtos de trabalho](Produtos de trabalho do planejamento do teste📈).
+
+
+
+
+
+
+
+
 
 # Referências 
 
