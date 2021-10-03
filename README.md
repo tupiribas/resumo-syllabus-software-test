@@ -1,6 +1,6 @@
 [TOC]
 
-# Fundamentos de Teste de software  :beetle::computer:
+# Fundamentos de Teste de software 🐞:computer:
 
 > É com estrema felicidade que apresento-lhe o "RESUMÃO" sobre esse lindo e maravilhoso mundo dos testes de software. Aproveite:laughing:!
 
